@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:padding="8dp">
+
+    <TextView
+        android:id="@+id/pesan_error"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="@string/failed_show"
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimaryVariant"
+        android:textSize="16sp"
+        android:layout_marginBottom="20dp"/>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        style="?android:attr/progressBarStyle"
+        android:indeterminateTint="@color/colorPrimaryVariant"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:id="@+id/cobaLagiButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/coba_lagi"
+        android:fontFamily="@font/poppins_semibold"/>
+</LinearLayout>

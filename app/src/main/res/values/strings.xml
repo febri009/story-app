@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Story App by Febri</string>
+    <string name="login">Login</string>
+    <string name="register">Daftar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pw">Password</string>
+    <string name="hint_nama">Masukkan nama anda</string>
+    <string name="back_to_login">Kembali ke laman Login</string>
+    <string name="main_title">Story App by Febri</string>
+    <string name="pesan_error">Gagal memuat, silahkan coba kembali</string>
+    <string name="ok">Ok</string>
+    <string name="success">Berhasil mendaftarkan akun anda</string>
+    <string name="image_user">Gambar Pengguna</string>
+    <string name="title_story">Story</string>
+    <string name="empty">Tidak ada story yang ditampilkan</string>
+    <string name="floating_button">Tambah Cerita</string>
+    <string name="buat_story">Tambah Cerita</string>
+    <string name="kamera">Kamera</string>
+    <string name="galeri">Galeri</string>
+    <string name="upload">Upload Story</string>
+    <string name="hint_deskripsi">Ceritakan momenmu!</string>
+    <string name="success_create_story">Cerita anda berhasil di buat!</string>
+    <string name="validation_error">Mohon isi semua data dengan benar!</string>
+    <string name="story_by">Story by : </string>
+    <string name="deskripsi">Deskripsi Story : </string>
+    <string name="email_invalid">Email tidak valid</string>
+    <string name="nama_invalid">Nama tidak valid</string>
+    <string name="pw_invalid">Password tidak valid</string>
+    <string name="coba_lagi">Coba Kembali</string>
+    <string name="Logout">logout</string>
+    <string name="noAcc">Belum punya akun? Daftar terlebih dahulu</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="desc_title_create">Bagikan story-mu dengan menambahkan gambar melalui kamera / galeri!</string>
+    <string name="created_at">Dibuat pada :</string>
+    <string name="failed_show">Gagal memuat data</string>
+    <string name="permission_denied">Aplikasi tidak mendapatkan izin</string>
+    <string name="location_not_found">Lokasi tidak ditemukan</string>
+    <string name="tidak_ditemukan">Data Lokasi Tidak Ditemukan</string>
+    <string name="location_permission_needed">Anda perlu mengizinkan aplikasi</string>
+    <string name="location_permission_needed_message">Perlu izin lokasi</string>
+    <string name="cancel">Batal</string>
+    <string name="logo">Ini adalah logo aplikasi</string>
+    <string name="include_location">Tambahkan Lokasi terkini</string>
+</resources>
